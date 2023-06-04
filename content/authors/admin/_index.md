@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Haonan Zhang 张浩南
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Haonan
+last_name: Zhang
 
 # Status emoji
 status:

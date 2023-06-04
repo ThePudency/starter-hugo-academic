@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Haonan Zhang 张浩南
+title: Haonan Zhang
 
 # Full name (for SEO)
 first_name: Haonan
@@ -78,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Medical AI grad student, driven to explore AI's innovative applications in medicine, anticipating future breakthroughs.
 {style="text-align: justify;"}
